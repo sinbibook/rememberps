@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-09-22T07:46:49.956675836Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-09-22T07:48:08.889242549Z",
     "templateType": "trip_f",
     "propertyId": "0a2434f5-4e10-47bc-9541-b59fffc13122",
     "homepageId": "1a3ca4fa-ff20-4183-8087-2085e4c67b25"
@@ -980,8 +980,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "7cd38e8c-b2e6-47dd-91e0-625ed03880ad",
-                    "url": "https://rememberps.kr/assets/images/room/31056/6.webp",
+                    "id": "01a0c816-1c1f-7336-8ef6-8ea963cd6708",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/reservation_hero/1790063286932-c5vllhyqeg.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
