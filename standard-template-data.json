@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-09-22T07:42:25.048141018Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-09-22T07:46:49.956675836Z",
     "templateType": "trip_f",
     "propertyId": "0a2434f5-4e10-47bc-9541-b59fffc13122",
     "homepageId": "1a3ca4fa-ff20-4183-8087-2085e4c67b25"
@@ -819,8 +819,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "245df848-8add-4ab0-91f8-33f385044f97",
-                    "url": "https://rememberps.kr/assets/images/view/2.webp",
+                    "id": "01a0c814-e774-7165-a2a4-1eee386b3d25",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/directions_hero/1790063208019-696rm0zjxx.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1113,8 +1113,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "781e3ea8-a10f-4fef-8707-5bd22bc7b555",
-                    "url": "https://rememberps.kr/assets/images/room/31056/3.webp",
+                    "id": "01a0c814-e77b-741d-b5e5-1f280382cec6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/layout_map_hero/1790063208030-27obpmthx4.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1127,8 +1127,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "597a47a8-edf0-425c-bc01-0990ce977cfc",
-                    "url": "https://rememberps.kr/assets/images/room/layout.webp",
+                    "id": "01a0c814-e789-78d7-b6df-b18afb847601",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/layout_map_about/1790063208035-tkeck7atvi.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
