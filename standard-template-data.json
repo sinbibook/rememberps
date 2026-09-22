@@ -1,0 +1,1398 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-09-22T05:13:50.700616198Z",
+    "templateType": "trip_f",
+    "propertyId": "0a2434f5-4e10-47bc-9541-b59fffc13122",
+    "homepageId": "1a3ca4fa-ff20-4183-8087-2085e4c67b25"
+  },
+  "property": {
+    "id": "0a2434f5-4e10-47bc-9541-b59fffc13122",
+    "name": "강릉 리멤버 오션뷰 단체펜션",
+    "nameEn": "Gangneung Remember Dogchae Pension",
+    "description": "강원도 강릉 오션뷰 프라이빗 감성 펜션 리멤버입니다. 도보 5분 거리에 하평해변과 사천진해변이 위치해있습니다.",
+    "subtitle": "",
+    "address": "강원특별자치도 강릉시 사천면 해안로 1054 강릉 리멤버 펜션",
+    "latitude": 37.8438890078796,
+    "longitude": 128.870890301642,
+    "contactPhone": [
+      "010-9012-9409"
+    ],
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 사전 연락 부탁드립니다.",
+    "usageGuide": "[공지사항]\n- 객실 내 비품 파손 및 분실 시 배상 책임이 있으므로, 이용 시 유의 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 24개월 미만은 무료이나 인원수에는 포함됩니다.\n※ 24개월 미만 영유아 3명 이상일 경우, 1인당 인원 추가비 동일하게 발생합니다.\n\n[개별바베큐]\n- 바베큐 형태: 숯불+그릴\n- 이용 요금: 인원수 무관 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 신청 시간: 입실 후 ~ 22:00\n- 우천 시 이용 가능\n※ 우천 시에는 테라스 또는 바로 옆에 위치한 하파서프 업체에서 바베큐 가능\n\n[불멍]\n- 이용 요금: 1회당 40,000원 (1박기준/현장결제)\n\n[부대시설]\n[노래방]\n- 이용 기간: 6월~9월\n- 이용 요금: 무료\n- 이용 시간: 입실 후~22:00\n- 구비 품목: 68인치 TV 연동 노래방 기계 설치\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 썬베드 (오션뷰 감상) 구비\n- 세스코(CESCO) 정기방문 관리업체 (전문 위생점검 및 살균 소독 정기적으로 이루어짐)\n\n- 하평해변 도보 1분 거리\n- 하나로마트 사천농협 본점 (차량 5분)\n- GS25 강릉사천해변점 (차량 2분)\n\n[주차장]\n- 주차장 보유",
+    "reservationGuide": "- 객실 내 비품 파손 및 분실 시 배상 책임이 있으므로, 이용 시 유의 부탁드립니다.",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "rememberps.kr",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/941950",
+    "ybsId": "69146",
+    "tripPropertyId": "3403",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
+    "amenities": [
+      "주차장"
+    ],
+    "nearbyAttractions": [
+      "바다(바로앞)"
+    ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [ ],
+    "businessInfo": {
+      "businessName": "리멤버",
+      "businessNumber": "609-25-06162",
+      "representativeName": "이용석",
+      "businessAddress": "강원도 강릉시 사천면 해안로 1054",
+      "businessPhone": "",
+      "businessEmail": "",
+      "businessType": "corporate",
+      "businessCategory": "숙박",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "febffe1e-71d6-4c27-899b-9d03a9e243bc",
+        "name": "오션뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "ad94fe31-4954-4ee6-8aa1-f6e717267098",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/febffe1e-71d6-4c27-899b-9d03a9e243bc/main/1786079921134-sc31tqfhcm.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "718649bd-6f02-4346-8228-54ac1f6045e3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/febffe1e-71d6-4c27-899b-9d03a9e243bc/main/1786079921137-xv4bkaqobe.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "871bbef5-4b60-4225-af2d-98c997312a76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/febffe1e-71d6-4c27-899b-9d03a9e243bc/main/1786079921135-tjsd4lv5y6.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2185ba15-8ecc-4801-b0bf-7ebcb9659009",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/febffe1e-71d6-4c27-899b-9d03a9e243bc/main/1786079921138-5vwgl07co6.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "b8e12e1b-cca7-484c-a0d6-d3bc73141d9e",
+        "name": "개별바베큐",
+        "description": "여유로운 공간에서 즐기는 식사 시간은\n단순한 한 끼를 넘어 특별한 기억으로 남습니다.",
+        "usageGuide": "- 바베큐 형태: 숯불+그릴\n- 이용 요금: 인원수 무관 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 신청 시간: 입실 후 ~ 22:00\n- 우천 시 이용 가능\n※ 우천 시에는 테라스 또는 바로 옆에 위치한 하파서프 업체에서 바베큐 가능",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "43f94a12-01b3-4e52-83de-98691c87fa6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b8e12e1b-cca7-484c-a0d6-d3bc73141d9e/main/1786079918146-zhncxu731w.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7bcf461b-0cee-4907-be19-2cd150e9045d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b8e12e1b-cca7-484c-a0d6-d3bc73141d9e/main/1786079918751-y1z5yl1mdu.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b730e326-46e3-4cb8-b0a2-4a9d080cf13c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b8e12e1b-cca7-484c-a0d6-d3bc73141d9e/main/1786079918145-7hd05kzyej.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "a017e4a1-5def-4018-9857-25b360474a29",
+        "name": "인근해변",
+        "description": "조금만 걸음을 옮기면 마주하는 바다 풍경이\n일상의 흐름을 잠시 멈추게 합니다.",
+        "usageGuide": "",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "8a0ce13a-5b56-4409-8ff9-c975cafee1ce",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a017e4a1-5def-4018-9857-25b360474a29/main/1786079921736-nfewubtuvr.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8597aa67-db00-4476-b44f-4901edb79204",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a017e4a1-5def-4018-9857-25b360474a29/main/1786079921733-nhx1mypi1b.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6e58d6bc-4dd2-451f-b8a0-c5b5200080f2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a017e4a1-5def-4018-9857-25b360474a29/main/1786079921734-08l81b9bb2.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "dc72ad64-e835-47fb-820a-9cb1976c259f",
+        "name": "불멍",
+        "description": "은은하게 퍼지는 불빛을 바라보며\n하루의 긴장을 천천히 내려놓는 시간을 가져보세요.",
+        "usageGuide": "- 이용 요금: 1회당 40,000원 (1박기준/현장결제)",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "00c786c3-dffa-4d2d-aa14-4a059c949ef6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc72ad64-e835-47fb-820a-9cb1976c259f/main/1786079919687-abvreybcur.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "92751561-b0dd-4462-b50e-cc16fb96a73a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc72ad64-e835-47fb-820a-9cb1976c259f/main/1786079919690-rhs0fq2arw.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "981d052f-56f3-4583-96db-1d9f10108c9d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc72ad64-e835-47fb-820a-9cb1976c259f/main/1786079919689-i5lku1b2m3.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "963e768f-1d5b-4a92-9e08-e1b6d51c8a54",
+        "name": "편의 및 주변 시설",
+        "description": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.",
+        "usageGuide": "- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 썬베드 (오션뷰 감상) 구비\n- 세스코(CESCO) 정기방문 관리업체 (전문 위생점검 및 살균 소독 정기적으로 이루어짐)\n\n- 하평해변 도보 1분 거리\n- 하나로마트 사천농협 본점 (차량 5분)\n- GS25 강릉사천해변점 (차량 2분)",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "4d5c6513-e3d8-4134-9822-a3c84709ef26",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/963e768f-1d5b-4a92-9e08-e1b6d51c8a54/main/1786079920346-2onddfted0.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "cbebab75-6b05-4c58-8a7b-c5b4888bc445",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/963e768f-1d5b-4a92-9e08-e1b6d51c8a54/main/1786079920347-31rjtqd15j.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7ddf8b4c-0982-41d7-a0a2-b51b348f2dc6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/963e768f-1d5b-4a92-9e08-e1b6d51c8a54/main/1786079920350-r0kitbywq8.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e813d3d5-4e29-451b-a72a-c5626762f6cd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/963e768f-1d5b-4a92-9e08-e1b6d51c8a54/main/1786079920350-y8jui0l3gr.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [
+          {
+            "id": "32416983-a012-48d8-945f-282a3e224d8f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/1NbHqPcEylgh.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "108d4282-394c-49e4-971b-af18d75f877a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/A90UExH6vQBI.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d2c7b00f-9e89-40bc-b559-36fe75dc931b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/9YVgL384GuwA.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6185a2d7-c26e-44d6-9a81-fba6f9ab5749",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/LiWtUxorn5m9.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6a762991-bf56-4639-b09a-f9ca9d5b03dd",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/B8bCnNqjLXDE.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "27bd5c81-c154-4784-adde-3c462a495292",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/YdEvUrtTmAb1.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0948690c-4378-4a73-9bad-e8d080970ae1",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/2Xxrb76mk4QU.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "367079f6-cd37-489b-a420-fff2aba46460",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/Y8khIwpFA2oK.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1ede574f-0cfc-4299-a6b3-5cfeae565978",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/ZwQhxAjNS1mU.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+      "name": "프라이빗 (단체/개별BBQ/오션뷰)",
+      "description": "독채형+원룸형, 침대룸(더블침대1,싱글침대1)+침대룸(더블침대1,싱글침대1)+주방1+화장실2+개별바비큐\r\n바다전망, 58.00평\r\nTV,금연,냉장고,바디워시,린스,샴푸,에어컨,와이파이,인덕션,토스트기,커피포트,타월,테라스,욕실용품,정수기,전자레인지,개별바비큐",
+      "roomInfo": "",
+      "usageGuide": "원룸형 : 침대룸(더블침대2+싱글침대2)+주방+화장실2\r\n\r\n# 인원 추가 요금(1박기준/현장결제)\r\n1인당 30,000원(24개월 이상)\r\n※ 24개월 미만은 무료이나 인원수에는 포함\r\n※ 2명까지만 무료이며 24개월 미만 영유아 3명 이상일 경우, 1인 당 인원추가비 동일하게 발생\r\n\r\n[ 공 지 사 항 ]\r\n※ 객실 내 비품 파손 및 분실 시 배상책임이 있으므로, 이용 시 유의 부탁드립니다.",
+      "group": null,
+      "size": 191.74,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 2,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "인덕션",
+        "무료 WiFi",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "토스트기",
+        "에어컨",
+        "냉장고",
+        "개별바비큐",
+        "전자레인지",
+        "정수기",
+        "욕실용품",
+        "금연",
+        "TV",
+        "테라스",
+        "수건",
+        "전기포트"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "독채",
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "692e73de-607c-42d1-99ee-33cb0983e14c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/yDYRzWnLb4ic.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "394e4697-1bcf-4020-ab49-3f0087f74809",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/0E2lW4A7OYdn.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2abb3a82-6489-401b-a92b-409261c19937",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/TetzyY6hJFvN.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "611bc7da-f7eb-49f7-a50d-ad5f0c004edb",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/wVPSytGCls3Q.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "40802957-a2cf-4524-9d26-664eb7648342",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/3nyo0wJEzrMD.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "274d1b68-4b38-43d6-85ad-c5c25df8b7e1",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/p4Czwuh5g1qc.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "036ef799-7890-4859-9184-2b92cbb9186e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/khgSuPQtcB0X.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "86278c18-c131-4a82-9492-e34dec1cb04b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/ADqdJY2XsfmI.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2c69f18b-e4cb-47ad-9168-6c72cb9720a5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/A9qaNMG4Im7S.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ebbe0a3c-90c1-446a-a6e8-c59839d6f52e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/zYixRrqAftSd.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "6b5b0955-86d5-433e-a6af-057f9d10f561",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/AJMoG0fzObse.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "1184b6a0-2077-4fd6-a49f-8ace84637da9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/H4CdPc56f8We.jpg",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "79084fba-4bb6-437c-aea2-a643e838fb2f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/aBC1OA4ikKRU.jpg",
+              "sortOrder": 18,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "bb86970d-58f8-4ce9-bbbf-13d14ab4df98",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/7v4mG25plMkZ.jpg",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ffd52f72-7df5-40fc-b38a-47ed2a86b65c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/aM8YrCUfVsHA.jpg",
+              "sortOrder": 20,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "88463d67-169c-4da5-b194-ba2a9eef61c2",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/HMcFkOBQCeGa.jpg",
+              "sortOrder": 21,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "6531ac8f-8385-4731-83d3-66b4be5e8abd",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/NZP8ATh7WDki.jpg",
+              "sortOrder": 22,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    }
+  ],
+  "homepage": {
+    "id": "1a3ca4fa-ff20-4183-8087-2085e4c67b25",
+    "domain": "rememberps.kr",
+    "templateType": "trip_f",
+    "images": [
+      {
+        "logo": [
+          {
+            "id": "10b97c67-fb9b-4f0d-a950-bd7e7327bdc5",
+            "url": "https://rememberps.kr/assets/images/common/logo.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "title": "강릉 리멤버 오션뷰 단체펜션",
+      "description": "강원도 강릉 오션뷰 프라이빗 감성 펜션 리멤버입니다. 도보 5분 거리에 하평해변과 사천진해변이 위치해있습니다.",
+      "keywords": "강릉펜션,강릉독채펜션,강릉오션뷰펜션,강릉바베큐펜션,강원도펜션,강원도독채펜션,강원도오션뷰펜션,강원도바베큐펜션,강원펜션,강원독채펜션,강원오션뷰펜션,강원바베큐펜션",
+      "naverSiteVerification": "f23805ededd25049c35fe947141dff6c5df9d488",
+      "googleSiteVerification": "LZvFyz6QhklYG-jRy9rI6z1VY2RglypaOsrHpfbpFaQ"
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "Private ",
+                "images": [
+                  {
+                    "id": "4e2483b4-d04c-4c70-8f08-80cf073fd03b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126484-x22ldkv62i.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "3d4bca5b-56d6-4227-a746-8f102229a75e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126487-qj60hhsygz.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "23fe5f2b-0b71-4e4c-b662-1f4d279773bd",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126489-p51d0wetnm.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "eb775ae3-3011-4939-ab43-a3e77b250b43",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126486-9rqggyaumr.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "11ece085-8567-4d59-a6ce-63ed99ae6ade",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126492-aytfpyfr9q.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "308ee027-3f44-4fac-aa50-2de17ed18b0e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126491-r7qcj2k8fz.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "739e7181-be80-4f9b-a222-30e071fe5bf9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126499-m2lz06j1hc.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "5b2f9ca1-0b63-4ab3-9ad4-e1e1c89a8a06",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126497-brvemixgji.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "b6b1bc5d-023e-4267-b776-1d585a7eb6c0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/index_hero/1788929126496-v160jujkcg.jpg",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "closing": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "6124bdd5-050c-4999-811d-aeb8ee1f5e24",
+                    "url": "https://rememberps.kr/assets/images/view/5.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "감성 가득한 하루를 보내고 싶다면 강릉 리멤버 오션뷰 단체펜션에 머물러 보세요.\n이곳에서의 추억은 오랫동안 기억에 남는 특별한 경험이 될 것입니다."
+              },
+              "essence": {
+                "title": "Remember",
+                "images": [
+                  {
+                    "id": "383fed21-af33-4235-af17-2467477e6287",
+                    "url": "https://rememberps.kr/assets/images/view/1.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "지친 일상의 유일한 휴식처, 강릉 리멤버 오션뷰 단체펜션에 오신 것을 환영합니다."
+              },
+              "gallery": {
+                "title": "강릉 리멤버 오션뷰 단체펜션에서 즐기는 특별한 순간",
+                "images": [
+                  {
+                    "id": "7dae6958-7082-4f9d-a334-71e32c6a17ba",
+                    "url": "https://rememberps.kr/assets/images/room/31056/15.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "9396e7c8-05df-42b7-83f9-698565ea9022",
+                    "url": "https://rememberps.kr/assets/images/room/31056/5.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "252bf5de-609f-42ae-bcf4-b13aaaf43f04",
+                    "url": "https://rememberps.kr/assets/images/room/31056/14.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "감성 가득한 하루를 보낼 수 있는 단 하루\n소중한 여행 그리고 휴식\n강릉 리멤버 오션뷰 단체펜션에서 특별한 순간을 느껴보세요."
+              },
+              "signature": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ]
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "245df848-8add-4ab0-91f8-33f385044f97",
+                    "url": "https://rememberps.kr/assets/images/view/2.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "notice": {
+                "title": "자가용 이용 시",
+                "description": "지번 주소 : 강원특별자치도 강릉시 사천면 사천진리 263-1\n도로명 주소 : 강원특별자치도 강릉시 사천면 해안로 1054"
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "a1b5c027-0782-416c-bbe2-43c27911fe33",
+                    "url": "https://rememberps.kr/assets/images/view/1.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "6f76b68f-0c71-4b38-8e9f-4650be88cfb9",
+                    "url": "https://rememberps.kr/assets/images/view/2.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "0272ad00-f5e8-4943-862a-b9ef68240477",
+                    "url": "https://rememberps.kr/assets/images/view/3.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "6c3f11a7-7ad4-4c11-9217-a38af4c1515f",
+                    "url": "https://rememberps.kr/assets/images/view/4.webp",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "0a04b0b8-ca33-4d07-95fb-eb6db3d5d4d1",
+                    "url": "https://rememberps.kr/assets/images/view/5.webp",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "d96a7abf-fa8d-4dad-9bb3-e69d20e37206",
+                    "url": "https://rememberps.kr/assets/images/view/6.webp",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "4b78f99d-ce78-4d68-b546-64ac2a72f1b3",
+                    "url": "https://rememberps.kr/assets/images/view/7.webp",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "332f532c-55ea-4980-a8f7-8de8732c4afe",
+                    "url": "https://rememberps.kr/assets/images/view/8.webp",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "fc8e336a-e2a4-4e02-ad4d-50f0b2cf3b25",
+                    "url": "https://rememberps.kr/assets/images/view/9.webp",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "2c0be83e-8d10-4281-a86d-d1344613a062",
+                    "url": "https://rememberps.kr/assets/images/view/10.webp",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "44b5e584-bb3b-46b3-a127-0b9236232d22",
+                    "url": "https://rememberps.kr/assets/images/view/11.webp",
+                    "sortOrder": 10,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "감성 가득한 하루를 보낼 수 있는 단 하루\n소중한 여행 그리고 휴식\n강릉 리멤버 오션뷰 단체펜션에서 특별한 순간을 느껴보세요."
+              },
+              "about": [
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "af8bc3f5-6d0f-4500-94ba-3d5c1ff3b146",
+                      "url": "https://rememberps.kr/assets/images/view/10.webp",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f0088abf-f974-4987-8134-1649b07eeebd"
+                    }
+                  ],
+                  "blockId": "f0088abf-f974-4987-8134-1649b07eeebd",
+                  "description": "감성 가득한 강릉 리멤버 오션뷰 단체펜션으로 떠나는 어느 날,\n당신의 아름다운 여행을 응원합니다."
+                }
+              ]
+            }
+          ]
+        },
+        "room": [
+          {
+            "id": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Make your romantic memory",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "감성 가득한 강릉 리멤버 오션뷰 단체펜션에서의 하루\n평생 잊지못할 낭만적인 추억을 만들어보세요.",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "7cd38e8c-b2e6-47dd-91e0-625ed03880ad",
+                    "url": "https://rememberps.kr/assets/images/room/31056/6.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "723c0450-f654-4994-9012-92a7e0b13788",
+                    "url": "https://rememberps.kr/assets/images/travel/top.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "강릉 리멤버 오션뷰 단체펜션과 함께 즐기는 즐거운 여행"
+              },
+              "about": [
+                {
+                  "title": "하파서프",
+                  "images": [
+                    {
+                      "id": "07eeaa04-0c7e-4a0a-97af-c5638100f6ef",
+                      "url": "https://rememberps.kr/assets/images/travel/1.webp",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "d9a78110-69b2-44ca-9a29-d8b127cbdb12"
+                    }
+                  ],
+                  "blockId": "d9a78110-69b2-44ca-9a29-d8b127cbdb12",
+                  "description": "펜션 바로 옆 위치"
+                },
+                {
+                  "title": "싹스리호 선상낚시",
+                  "images": [
+                    {
+                      "id": "9a2dc9aa-663a-4af9-ab6c-dfef65e287e6",
+                      "url": "https://rememberps.kr/assets/images/travel/2.webp",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c6c3b817-4cc4-4127-94fa-5b0c2932bfb8"
+                    }
+                  ],
+                  "blockId": "c6c3b817-4cc4-4127-94fa-5b0c2932bfb8",
+                  "description": "펜션에서 차량으로 4분 거리, 1.7km"
+                },
+                {
+                  "title": "경포 도립공원",
+                  "images": [
+                    {
+                      "id": "54a5d26c-20ec-4ff3-83d4-37e527eb44db",
+                      "url": "https://rememberps.kr/assets/images/travel/3.webp",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c2b320f3-31e6-4184-bad1-c825fd37d5ee"
+                    }
+                  ],
+                  "blockId": "c2b320f3-31e6-4184-bad1-c825fd37d5ee",
+                  "description": "펜션에서 차량으로 11분 거리, 6km"
+                },
+                {
+                  "title": "경포 해수욕장",
+                  "images": [
+                    {
+                      "id": "7b469896-8ba1-4c66-b580-733495762e01",
+                      "url": "https://rememberps.kr/assets/images/travel/4.webp",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "17c48d03-30be-48bb-84e6-d6b14b512a80"
+                    }
+                  ],
+                  "blockId": "17c48d03-30be-48bb-84e6-d6b14b512a80",
+                  "description": "펜션에서 차량으로 13분 거리, 7km"
+                },
+                {
+                  "title": "오죽헌",
+                  "images": [
+                    {
+                      "id": "9e40bb87-0cb9-4d63-a803-a78a7aab83ab",
+                      "url": "https://rememberps.kr/assets/images/travel/5.webp",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "a152ec3e-08ff-474d-9eb7-b5883d8a6f8e"
+                    }
+                  ],
+                  "blockId": "a152ec3e-08ff-474d-9eb7-b5883d8a6f8e",
+                  "description": "펜션에서 차량으로 17분 거리, 9km"
+                },
+                {
+                  "title": "아르떼뮤지엄 강릉",
+                  "images": [
+                    {
+                      "id": "cf95d673-f117-411a-9104-1c982d335212",
+                      "url": "https://rememberps.kr/assets/images/travel/6.webp",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "953479db-8eb5-4458-87af-c0f674d9ef25"
+                    }
+                  ],
+                  "blockId": "953479db-8eb5-4458-87af-c0f674d9ef25",
+                  "description": "펜션에서 차량으로 17분 거리, 9km"
+                }
+              ],
+              "enabled": true
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "781e3ea8-a10f-4fef-8707-5bd22bc7b555",
+                    "url": "https://rememberps.kr/assets/images/room/31056/3.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "597a47a8-edf0-425c-bc01-0990ce977cfc",
+                    "url": "https://rememberps.kr/assets/images/room/layout.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "enabled": true
+            }
+          ]
+        }
+      },
+      "popup": {
+        "popups": [ ]
+      },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": null
+      },
+      "property": {
+        "name": "강릉 리멤버 오션뷰 단체펜션",
+        "images": [
+          {
+            "id": "46b80f9b-c51d-4698-8f84-237b48886e6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/property_thumbnail/1788929126495-fd2ingggpt.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "068b1364-1884-4605-9d4c-7e220dca2461",
+            "url": "https://rememberps.kr/assets/images/view/5.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "38138c52-3c6a-463c-ae6e-7e3ad9e37d43",
+            "url": "https://rememberps.kr/assets/images/view/2.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
+        "nameEn": "Remember"
+      },
+      "roomtypes": [
+        {
+          "id": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+          "name": "프라이빗 (단체/개별BBQ/오션뷰)",
+          "images": [
+            {
+              "id": "cc0e9466-92b0-4ec6-a903-2dfa568527fa",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_thumbnail/1788929126501-uwx5mlyiyv.jpg",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "a6207c54-fdfc-4d7d-b5b5-7255099548bd",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126530-9nqvbsun4z.jpg",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "09877a1c-ff16-409c-9079-dd7790bbb220",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126577-5fn3z46uu7.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "f3411b98-9d7d-4c75-b3ec-6a9ec296ba93",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126581-cjd4p4r1f6.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "ea0c6cc0-a87e-4b66-9361-3fac37936678",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126586-ac3gq8y7s0.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "6e838416-78b6-4c27-aae7-3c408adc544e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126585-p2wia9fdji.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "eee5a298-4be8-48ca-ac11-3ddeb8ab7cd5",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126587-cg4g1djmli.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "411f7eda-101e-4ecd-b1d6-b18736443bf7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126584-a3ie1ngpi9.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "2066d7d4-3b76-4506-a3e6-73f02fb9a277",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126584-4ueqptyc6q.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "5fe3c7a7-bb8f-4983-b42f-667f532e6e01",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126589-6rjxxjcszy.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "c3e6a993-1ecc-4c2f-9640-3382d315c9f7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126588-xvrce5g8sg.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "aedd5192-3453-4f17-a73b-479f053f2ca3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126600-s4ba53w90m.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "4fa1b693-ecc0-4b94-a36c-f4021499da0e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126592-tk8lr5n4au.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "ebfa460e-912a-415d-b470-095bca623e90",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126596-ddxjmj9buk.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "aeb3f92d-e764-4dd0-8803-2b22dd555de2",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126589-4z657gn4fw.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "444f3856-90fa-4bee-9c35-57c01de0a425",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126672-7ljgdp32rt.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "e19768b6-259a-41d9-87bd-293cd9e6e896",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126595-3hdy7tacyi.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "74e6396f-e534-4769-a603-f0ca8d5cc9cd",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_interior/1788929126598-b3105kkzuw.jpg",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "5653a7ac-52d6-4e1f-900c-db464d7c4efe",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_exterior/1788929126597-wkbtqelgiu.jpg",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "a2041561-dc8c-475d-a7be-8658efe1b5aa",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_exterior/1788929126594-14mqr7z8xv.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "afdae0f3-2c3f-4704-8122-194bc69e60ff",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_exterior/1788929126596-cyiiw9qmvx.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "b4ccbb9f-cae9-420a-b9e7-bb4899ed8b83",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/roomtype_exterior/1788929126599-ii7rk2tvvs.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9b5a54ae-98d6-4526-a5a8-fefac8e07315",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": ""
+        }
+      ]
+    }
+  }
+}
