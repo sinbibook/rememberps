@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-09-22T07:41:38.949639394Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-09-22T07:42:25.048141018Z",
     "templateType": "trip_f",
     "propertyId": "0a2434f5-4e10-47bc-9541-b59fffc13122",
     "homepageId": "1a3ca4fa-ff20-4183-8087-2085e4c67b25"
@@ -843,88 +843,88 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "a1b5c027-0782-416c-bbe2-43c27911fe33",
-                    "url": "https://rememberps.kr/assets/images/view/1.webp",
+                    "id": "01a0c810-dcc3-70c6-8a10-1bb7f4eaa9e5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942341-8lrgas9vi0.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "6f76b68f-0c71-4b38-8e9f-4650be88cfb9",
-                    "url": "https://rememberps.kr/assets/images/view/2.webp",
+                    "id": "01a0c810-da37-753f-bba0-b73678058430",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942350-ui4xkw4kiu.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "0272ad00-f5e8-4943-862a-b9ef68240477",
-                    "url": "https://rememberps.kr/assets/images/view/3.webp",
+                    "id": "01a0c810-dc58-7506-90a1-ea1eae604112",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942344-d0mcyvo7ll.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "6c3f11a7-7ad4-4c11-9217-a38af4c1515f",
-                    "url": "https://rememberps.kr/assets/images/view/4.webp",
+                    "id": "01a0c810-db2d-7dcd-a245-dfd45061482a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942356-iyvmm3f8l3.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "0a04b0b8-ca33-4d07-95fb-eb6db3d5d4d1",
-                    "url": "https://rememberps.kr/assets/images/view/5.webp",
+                    "id": "01a0c810-db37-7ae1-b59b-17aa5e7decfe",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942427-arahc1p3iq.jpg",
                     "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "d96a7abf-fa8d-4dad-9bb3-e69d20e37206",
-                    "url": "https://rememberps.kr/assets/images/view/6.webp",
+                    "id": "01a0c810-dc34-71b2-ad65-348030d3d53d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942342-l1t5ws8sw6.jpg",
                     "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "4b78f99d-ce78-4d68-b546-64ac2a72f1b3",
-                    "url": "https://rememberps.kr/assets/images/view/7.webp",
+                    "id": "01a0c810-dca1-78dc-99ea-bf95bce5de0d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942351-3lgrp8a6zh.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "332f532c-55ea-4980-a8f7-8de8732c4afe",
-                    "url": "https://rememberps.kr/assets/images/view/8.webp",
+                    "id": "01a0c810-d9ff-7a9e-8f00-5953e59fb77f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942441-crqlxwuy0x.jpg",
                     "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "fc8e336a-e2a4-4e02-ad4d-50f0b2cf3b25",
-                    "url": "https://rememberps.kr/assets/images/view/9.webp",
+                    "id": "01a0c810-dc47-7ab9-86ae-4ade244b5085",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942350-v740n90s15.jpg",
                     "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "2c0be83e-8d10-4281-a86d-d1344613a062",
-                    "url": "https://rememberps.kr/assets/images/view/10.webp",
+                    "id": "01a0c810-dc48-72e0-80d3-5a43851ce4ac",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942357-ysvgk5zd0t.jpg",
                     "sortOrder": 9,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "44b5e584-bb3b-46b3-a127-0b9236232d22",
-                    "url": "https://rememberps.kr/assets/images/view/11.webp",
+                    "id": "01a0c810-dcf6-7efb-b48f-8551e594a7a4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_hero/1790062942352-1c78fgdwrr.jpg",
                     "sortOrder": 10,
                     "description": "",
                     "isSelected": true,
@@ -938,8 +938,8 @@
                   "title": "",
                   "images": [
                     {
-                      "id": "af8bc3f5-6d0f-4500-94ba-3d5c1ff3b146",
-                      "url": "https://rememberps.kr/assets/images/view/10.webp",
+                      "id": "01a0c810-dc4e-785a-a0f8-d1e079af242b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/main_about/1790062942352-ky7q10g8bb.jpg",
                       "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
