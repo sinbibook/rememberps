@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-09-22T07:49:33.817213677Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-10-22T10:09:14.716512429Z",
     "templateType": "trip_f",
     "propertyId": "0a2434f5-4e10-47bc-9541-b59fffc13122",
     "homepageId": "1a3ca4fa-ff20-4183-8087-2085e4c67b25"
@@ -1140,10 +1140,36 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "3e92215c-9c67-4c97-94c9-25f12d426bfd",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "01a16316-1327-7cb5-828c-bbaf6fafb406",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1a3ca4fa-ff20-4183-8087-2085e4c67b25/popup/1792663753190-lhk9dk4bih.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "3e92215c-9c67-4c97-94c9-25f12d426bfd"
+              }
+            ],
+            "slider": false,
+            "videos": [ ],
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
@@ -1473,7 +1499,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
