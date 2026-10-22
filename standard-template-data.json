@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-10-22T10:09:14.716512429Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-10-22T10:20:31.833764312Z",
     "templateType": "trip_f",
     "propertyId": "0a2434f5-4e10-47bc-9541-b59fffc13122",
     "homepageId": "1a3ca4fa-ff20-4183-8087-2085e4c67b25"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 사전 연락 부탁드립니다.",
-    "usageGuide": "[공지사항]\n- 객실 내 비품 파손 및 분실 시 배상 책임이 있으므로, 이용 시 유의 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 24개월 미만은 무료이나 인원수에는 포함됩니다.\n※ 24개월 미만 영유아 3명 이상일 경우, 1인당 인원 추가비 동일하게 발생합니다.\n\n[개별바베큐]\n- 바베큐 형태: 숯불+그릴\n- 이용 요금: 인원수 무관 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 신청 시간: 입실 후 ~ 22:00\n- 우천 시 이용 가능\n※ 우천 시에는 테라스 또는 바로 옆에 위치한 하파서프 업체에서 바베큐 가능\n\n[불멍]\n- 이용 요금: 1회당 40,000원 (1박기준/현장결제)\n\n[부대시설]\n[노래방]\n- 이용 기간: 6월~9월\n- 이용 요금: 무료\n- 이용 시간: 입실 후~22:00\n- 구비 품목: 68인치 TV 연동 노래방 기계 설치\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 썬베드 (오션뷰 감상) 구비\n- 세스코(CESCO) 정기방문 관리업체 (전문 위생점검 및 살균 소독 정기적으로 이루어짐)\n\n- 하평해변 도보 1분 거리\n- 하나로마트 사천농협 본점 (차량 5분)\n- GS25 강릉사천해변점 (차량 2분)\n\n[주차장]\n- 주차장 보유",
+    "usageGuide": "- 객실 내 비품 파손 및 분실 시 배상 책임이 있으므로, 이용 시 유의 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 30,000원, 유아 무료\n(1박기준/현장결제)\n※ 24개월 미만은 무료이나 인원수에는 포함됩니다.\n※ 24개월 미만 영유아 3명 이상일 경우, 1인당 인원 추가비 동일하게 발생합니다.\n\n[개별바베큐]\n- 바베큐 형태: 숯불+그릴\n- 이용 요금: 인원수 무관 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 신청 시간: 입실 후 ~ 22:00\n- 우천 시 이용 가능\n※ 우천 시에는 테라스 또는 바로 옆에 위치한 하파서프 업체에서 바베큐 가능\n\n[불멍]\n- 이용 요금: 1회당 40,000원 (1박기준/현장결제)\n\n[부대시설]\n[노래방]\n- 이용 기간: 6월~9월\n- 이용 요금: 무료\n- 이용 시간: 입실 후~22:00\n- 구비 품목: 68인치 TV 연동 노래방 기계 설치\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 썬베드 (오션뷰 감상) 구비\n- 세스코(CESCO) 정기방문 관리업체 (전문 위생점검 및 살균 소독 정기적으로 이루어짐)\n\n- 하평해변 도보 1분 거리\n- 하나로마트 사천농협 본점 (차량 5분)\n- GS25 강릉사천해변점 (차량 2분)\n\n[주차장]\n- 주차장 보유",
     "reservationGuide": "- 객실 내 비품 파손 및 분실 시 배상 책임이 있으므로, 이용 시 유의 부탁드립니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -209,9 +209,34 @@
         ]
       },
       {
+        "id": "ad171b31-2688-4226-8a4a-5bc47932c604",
+        "name": "부대시설",
+        "description": "",
+        "usageGuide": "[노래방]\n- 이용 기간: 6월~9월\n- 이용 요금: 무료\n- 이용 시간: 입실 후~22:00\n- 구비 품목: 68인치 TV 연동 노래방 기계 설치",
+        "displayOrder": 4,
+        "images": [
+          {
+            "id": "01a16320-0c64-7495-8683-ce1d5bed6438",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad171b31-2688-4226-8a4a-5bc47932c604/main/1792664406853-rjdp7t56yt.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16320-0d43-758d-b137-c89c981b727f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad171b31-2688-4226-8a4a-5bc47932c604/main/1792664406858-5ywh9s3hj8.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "963e768f-1d5b-4a92-9e08-e1b6d51c8a54",
         "name": "편의 및 주변 시설",
-        "description": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.",
+        "description": "",
         "usageGuide": "- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 썬베드 (오션뷰 감상) 구비\n- 세스코(CESCO) 정기방문 관리업체 (전문 위생점검 및 살균 소독 정기적으로 이루어짐)\n\n- 하평해변 도보 1분 거리\n- 하나로마트 사천농협 본점 (차량 5분)\n- GS25 강릉사천해변점 (차량 2분)",
         "displayOrder": 5,
         "images": [
@@ -235,14 +260,6 @@
             "id": "7ddf8b4c-0982-41d7-a0a2-b51b348f2dc6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/963e768f-1d5b-4a92-9e08-e1b6d51c8a54/main/1786079920350-r0kitbywq8.jpg",
             "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "e813d3d5-4e29-451b-a72a-c5626762f6cd",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/963e768f-1d5b-4a92-9e08-e1b6d51c8a54/main/1786079920350-y8jui0l3gr.jpg",
-            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -309,7 +326,7 @@
           {
             "id": "32416983-a012-48d8-945f-282a3e224d8f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/1NbHqPcEylgh.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -319,7 +336,7 @@
           {
             "id": "108d4282-394c-49e4-971b-af18d75f877a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/A90UExH6vQBI.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -327,7 +344,7 @@
           {
             "id": "d2c7b00f-9e89-40bc-b559-36fe75dc931b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/9YVgL384GuwA.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,7 +352,7 @@
           {
             "id": "6185a2d7-c26e-44d6-9a81-fba6f9ab5749",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/LiWtUxorn5m9.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -343,7 +360,7 @@
           {
             "id": "6a762991-bf56-4639-b09a-f9ca9d5b03dd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/B8bCnNqjLXDE.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -351,7 +368,7 @@
           {
             "id": "27bd5c81-c154-4784-adde-3c462a495292",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/YdEvUrtTmAb1.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -359,7 +376,7 @@
           {
             "id": "0948690c-4378-4a73-9bad-e8d080970ae1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/2Xxrb76mk4QU.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -367,7 +384,7 @@
           {
             "id": "367079f6-cd37-489b-a420-fff2aba46460",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/Y8khIwpFA2oK.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -375,7 +392,7 @@
           {
             "id": "1ede574f-0cfc-4299-a6b3-5cfeae565978",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/ZwQhxAjNS1mU.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
